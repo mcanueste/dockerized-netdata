@@ -40,4 +40,4 @@ where
 
 ## Screen Shot
 
-![Netdata Screen Shot](./sceen_shot.png)
+![Netdata Screen Shot](https://github.com/mcanueste/dockerized-netdata/blob/main/screen_shot.png)
