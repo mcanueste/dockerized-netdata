@@ -37,3 +37,7 @@ ssh -NL 19999:localhost:19999 USER@SERVER_ADDRESS
 where
 - `USER` is your username on the server
 - `SERVER_ADDRESS` is the ip address or the domain name of the server.
+
+## Screen Shot
+
+![Netdata Screen Shot](./sceen_shot.png)
